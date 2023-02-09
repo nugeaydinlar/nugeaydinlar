@@ -3,7 +3,7 @@
 I am currently focused on improving my full-stack development skills and have started learning React.js and Node.js. My innate curiosity and love for coding ensure that I am always up-to-date with the latest advancements in the industry and looking for new ways to improve.
 
 I am a motivated individual with exceptional language skills and a drive to succeed. I am confident that my passion for coding, commitment to constant learning, and strong communication abilities make me a valuable asset to any team and a promising Junior Software Developer.</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/c6gKyfu4E_4AAAAC/typing-hello-kitty.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/c6gKyfu4E_4AAAAC/typing-hello-kitty.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nugeaydinlar&label=Profile%20views&color=0e75b6&style=flat" alt="nugeaydinlar" /> </p>
 
